@@ -1,0 +1,4 @@
+SQS bindings for ActionScript.
+
+This requires as3crypto.
+http://code.google.com/p/as3crypto/
